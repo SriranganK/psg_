@@ -27,7 +27,7 @@ The main aim and target for that matter of our project is to save and enhance th
 
 ## TECHNOLOGIES USED :-
 
-```HTML```  ```CSS```  ```JavaScript```  ```Bootstrap```  ```Markdown``` ```PHP``` ```MySQL```
+```Machine Learning```  ```IOT```  ```Computer Vision``` ```NLP```  ```MongoDB```  ```Embedded System``` ```Python``` ```HTML``` ```CSS``` ```JavaScript``` ```Flask``` 
 
 
 
